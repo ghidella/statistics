@@ -1,0 +1,1 @@
+personal study of python for statistics
